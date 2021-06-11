@@ -12,5 +12,11 @@
 - **Python** since March 2021
 - **HTML & CSS** since May 2021
 
+### Stuff Im going to learn in the future
+- C++
+- Java
+- CSS3.
+- SQL.
+
 
 

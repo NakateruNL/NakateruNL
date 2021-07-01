@@ -7,13 +7,13 @@
 - I like to **collect** vintage games and consoles
 
 ### Learning 🌱
+- **C++** Since July 1
 - **Javascript** since December 2020
 - **Ruby** since 2020
 - **Python** since March 2021
 - **HTML & CSS** since May 2021
 
 ### Stuff Im going to learn in the future
-- C++
 - Java
 - CSS3.
 - SQL.
